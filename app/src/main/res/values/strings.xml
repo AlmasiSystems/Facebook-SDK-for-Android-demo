@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FacebookStatus</string>
+    <string name="app_id">YOUR-APP-ID-HERE</string>
+    <string name="cancelled">Cancelled</string>
+    <string name="ok">OK</string>
+    <string name="FBexception">FacebookAuthorizationException.</string>
+
+</resources>
